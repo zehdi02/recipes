@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://images.unsplash.com/photo-1528731708534-816fe59f90cb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWluaW1hbCUyMHdoaXRlJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+    background-image: url(https://i.pinimg.com/originals/36/30/00/363000c1b5735897d229b4d3f2504126.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -24,4 +24,21 @@ body {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 32px;
+}
+
+.ol.li {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
+
+uol {
+    text-align: center;
+
 }
